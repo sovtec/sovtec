@@ -1,5 +1,5 @@
 <h1 align ="center">
-SOVTEC / 98% / hrdu
+SovTec / hrdu
 <!-- <h2 align ="center">
     <a href="https://github.com/GETmore/github-readme-stats/commits">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/sovtec/github-readme-stats?color=0088ff" />
