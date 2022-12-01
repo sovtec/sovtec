@@ -1,7 +1,7 @@
 <h1 align ="center">
-<!-- SOVTEC / 98% -->
+SOVTEC / 98%
 <h2 align ="center">
-    SOVTEC / 98%
+    <span>SOVTEC / 98%</span>
     <a href="https://github.com/sovtec/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GETmore/github-readme-stats?color=0088ff" />
     </a>
