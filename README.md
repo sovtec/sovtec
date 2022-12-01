@@ -5,11 +5,11 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sovtec&show_icons=true&theme=transparent&include_all_commits=true" width="500">
 </p>
-<br><br><hr>
+<br><br>
 <h2 align ="center">
+    <h3>My public server<h3>
     <img src="https://discordapp.com/api/guilds/326115854184087552/widget.png?style=shield" alt="https://discord.gg/3V4ZCyzst2"/>
 </h2>
-<br>
 <!--
 **sovtec/sovtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
