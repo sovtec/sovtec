@@ -1,4 +1,6 @@
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=sovtec&show_icons=true&theme=react" width="400">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sovtec&show_icons=true&theme=transparent" width="600">
+</p>
 <!--
 **sovtec/sovtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
