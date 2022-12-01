@@ -1,10 +1,10 @@
 <h1 align ="center">
 SOVTEC / 98%
-<h2 align ="center">
+<!-- <h2 align ="center">
     <a href="https://github.com/GETmore/github-readme-stats/commits">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/sovtec/github-readme-stats?color=0088ff" />
     </a>
-</h2>
+</h2> -->
 </h1>
 <br><br><br>
 <p align="center">
@@ -13,7 +13,7 @@ SOVTEC / 98%
 <br>
 
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"><img height="20" alt="java" src="https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png"><img height="20" alt="java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png" style="max-width: 100%;"></a></code>
 
 <!-- <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;"></a></code>
