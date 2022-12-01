@@ -2,7 +2,7 @@
 SOVTEC / 98%
 <h2 align ="center">
     <a href="https://github.com/GETmore/github-readme-stats/commits">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GETmore/github-readme-stats?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/sovtec/github-readme-stats?color=0088ff" />
     </a>
 </h2>
 </h1>
