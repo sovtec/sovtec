@@ -1,9 +1,12 @@
+<h1 align ="center">
+**SOVTEC**
+</h1>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sovtec&show_icons=true&theme=transparent" width="500">
 </p>
-
+<br><br><hr>
 <h2 align ="center">
-    <img src="https://discordapp.com/api/guilds/326115854184087552/widget.png?style=banner2" alt="Discord"/>
+    <img src="https://discordapp.com/api/guilds/326115854184087552/widget.png?style=shield" alt="Discord Shield"/>
 </h2>
 <!--
 **sovtec/sovtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
