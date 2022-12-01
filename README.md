@@ -1,4 +1,5 @@
-### Hi there 👋
+<a href="https://github.com/sovtec/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
 
 <!--
 **sovtec/sovtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
