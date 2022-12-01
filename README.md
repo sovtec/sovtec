@@ -3,7 +3,7 @@
 </p>
 
 <h2 align ="center">
-    !(https://discordapp.com/api/guilds/326115854184087552/widget.png?style=banner2)
+    <img src="https://discordapp.com/api/guilds/326115854184087552/widget.png?style=banner2" alt="Discord"/>
 </h2>
 <!--
 **sovtec/sovtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
