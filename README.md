@@ -14,4 +14,4 @@ SovTec / hrdu
 
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
     
-<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.imgur.com/kF80c2m.png"><img height="20" alt="javascript" src="https://i.imgur.com/kF80c2m.png" style="max-width: 100%;"></a></code>
+<!-- <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://i.imgur.com/kF80c2m.png"><img height="20" alt="javascript" src="https://i.imgur.com/kF80c2m.png" style="max-width: 100%;"></a></code> -->
