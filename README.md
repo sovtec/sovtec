@@ -8,7 +8,7 @@ SovTec / hrdu
 </h1>
 <br><br><br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sovtec&show_icons=true&theme=transparent" width="500">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sovtec&show_icons=true&theme=transparent" width="500"> 
 </p>
 <br>
 
